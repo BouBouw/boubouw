@@ -1,4 +1,5 @@
 # Salut, je suis BouBouw !
+##### Je suis un développeur **junior** spécialisé dans la création de sites internet
 
 > Mes réseaux:
 [Twitter](https://twitter.com/BouuBouw)
