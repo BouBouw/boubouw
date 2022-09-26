@@ -2,4 +2,9 @@
 
 > Test
 
-- JavaScript
+- (🟡) JavaScript
+- (🔵) TypeScript
+- (🔴) HTML & CSS
+- (🟣) PHP
+- (⚫️) Solidity
+- (🟢) SQL
