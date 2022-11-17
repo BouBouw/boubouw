@@ -12,9 +12,15 @@
 - (🟣) PHP
 - (⚫️) Solidity
 - (🟢) SQL
+<<<<<<< HEAD
 <<<<<<< HEAD:readme.md
 
 ###### Voici un accès à mon portfolio pour en découvrir plus sur moi et avoir un avant goût de mes compétences !
 [Portfolio](https://boubouw.xyz)
 =======
 >>>>>>> a88a177ef6bc873e29a8f08e3a3789d363755b4b:README.md
+=======
+
+###### Voici un accès à mon portfolio pour en découvrir plus sur moi et avoir un avant goût de mes compétences !
+[Portfolio](https://boubouw.xyz)
+>>>>>>> 2063332b62631e16db93f8cd5adb97f0c6075f10
