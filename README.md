@@ -1,10 +1,6 @@
 # 🏔️ BouBouw | Senior Fullstack & Web3 Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0055ff&height=200&section=header&text=BouBouw&fontSize=80&animation=fadeIn" />
-</p>
-
-<p align="center">
   <b>Basé en Haute-Savoie, France 🇫🇷</b><br>
   🚀 <b>+7 ans d'expérience</b> dans la conception d'architectures scalables et décentralisées.
 </p>
