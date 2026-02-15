@@ -38,15 +38,6 @@ Expert en développement d'applications modernes, je navigue entre la fluidité 
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  [![BouBouw's GitHub stats](https://github-readme-stats.vercel.app/api?username=BouBouw)](https://github.com/BouBouw/github-readme-stats)
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouBouw&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" />
-</p>
-
----
-
 ### 🏔 Hors du Code
 Quand je ne suis pas devant un écran à optimiser des Smart Contracts ou des composants React, vous me trouverez probablement :
 - ⛷️ Sur les pistes des Alpes.
